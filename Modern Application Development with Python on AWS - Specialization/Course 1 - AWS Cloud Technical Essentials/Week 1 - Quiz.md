@@ -13,10 +13,8 @@ What are the four main factors you should take into consideration when choosing 
 ### Question 2
 
 True or false: Every action you take in AWS is an API call.
-'''diff
-+ True
-- False
-'''
+- [x] True
+- [ ] False
 
 ### Question 3
 
