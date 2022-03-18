@@ -13,7 +13,7 @@ What are the four main factors you should take into consideration when choosing 
 ### Question 2
 
 True or false: Every action you take in AWS is an API call.
-- <span style='color:green'>True</span>
+[x] True
 - False
 
 
