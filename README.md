@@ -1,3 +1,7 @@
+
+<a href="https://github.com/hacceebhassan"><img src="https://img.shields.io/github/followers/hacceebhassan?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
+![ViewCount](<https://views.whatilearened.today/views/github/hacceebhassan/data-visualization-with-tableau-specialization.svg?cache=remove>)
+
 # Modern Application Development with Python on AWS - Specialization
 
 
